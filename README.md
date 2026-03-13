@@ -1,7 +1,6 @@
 #                                                                                  Welcome To My Homepage
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Knowledge+Is+Infinite+)](https://git.io/typing-svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirk656)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dirk656)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dirk656)   ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dirk656&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
