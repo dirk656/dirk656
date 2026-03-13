@@ -1,7 +1,7 @@
 ## Welcome To My Homepage
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Knowledge+Is+Infinite;)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dirk656)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 
 <!--
 **dirk656/dirk656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
